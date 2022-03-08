@@ -3,9 +3,6 @@
 Experimental Vegetation Index Mapping program using DJI Mavic Pro DNG (raw image) +
 JPEG 16-bit combo images taken using InfraBlue Filter 
 
-This Version uses a special Broad Dual Bandpass NIR and Blue filter with a Narrow Bandpass in the Green
-to Create a combo NIR Blue + Green Image Allowing for Standalone JPG to NDVI
-
 """
 import warnings
 warnings.filterwarnings('ignore')
